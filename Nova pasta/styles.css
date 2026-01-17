@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.caixa1 {
+    background-color: #ffffff1a;
+    color: white;
+    width: 600px;
+    background-position: center;
+    outline: none;
+    border-radius: 15px;
+    padding: 30px;
+    margin: 50px auto;
+    /* centraliza a caixa horizontalmente */
+    margin-top: 5cm;
+    font-size: 18px;
+
+}
+
+.imagem {
+    width: 350px;
+    height: 350px;
+    display: block;
+    margin: -120px auto 20px auto;
+    /* centraliza a imagem horizontalmente */
+
+
+}
+
+.login {
+    font-size: 18px;
+    padding: 7px;
+    background-color: #ffffff1a;
+    color: rgb(175, 164, 164);
+    outline: none;
+    border-radius: 15px;
+    width: 550px;
+}
+
+.senha {
+    font-size: 18px;
+    padding: 7px;
+    background-color: #ffffff1a;
+    color: rgb(175, 164, 164);
+    outline: none;
+    border-radius: 15px;
+    width: 550px;
+
+}
+
+.lg {
+    font-size: 25px;
+    margin-bottom: 8px;
+    color: rgb(70, 240, 107);
+}
+
+.sh {
+    font-size: 25px;
+    margin-bottom: 8px;
+    color: rgb(70, 240, 107);
+}
+.botao {
+    font-size: 20px;
+    padding: 10px;
+    background-color: rgb(70, 240, 107);
+    color: black;
+    outline: none;
+    border-radius: 20px;
+    width: 550px;
+    margin-top: 15px;
+    cursor: pointer;
+    border: none;
+}
